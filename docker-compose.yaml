@@ -1,0 +1,13 @@
+services:
+  database:
+    image: mysql
+    env_file:
+      - ./src/.env
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./epytodo.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - 3307:3306
+
+volumes:
+  db_data:
