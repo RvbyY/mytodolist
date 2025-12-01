@@ -225,7 +225,7 @@ Want to challenge yourself further?
 
 ## 👨‍💻 Author
 
-- Your Name
-- [your.email@example.com](mailto:your.email@example.com)
+- Bassirou Tall
+- [bassirou.tall@epitech.eu](mailto:bassirou.tall@epitech.eu)
 
 ---
